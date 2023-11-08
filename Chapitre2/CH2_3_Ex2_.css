@@ -8,6 +8,7 @@ h2{
 
 p{
     color: white;
+    opacity: 100%;
 }
 
 body {
@@ -17,5 +18,7 @@ body {
     background-image: url("pinguun.png");
     background-repeat: no-repeat;
     background-position: top;
+    background-size: cover;
+    opacity: 100%;
 }
 
