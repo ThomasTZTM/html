@@ -1,0 +1,21 @@
+h1{
+    color: #9636ff ;
+}
+
+h2{
+    color: white ;
+}
+
+p{
+    color: white;
+}
+
+body {
+    background-image: url("Chapitre2/feuilles.png");
+}
+.banniere{
+    background-image: url("Chapitre2/pingouin.png");
+    background-repeat: no-repeat;
+    background-position: top;
+}
+
