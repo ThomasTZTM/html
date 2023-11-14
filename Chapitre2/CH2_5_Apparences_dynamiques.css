@@ -1,0 +1,51 @@
+
+h1 {
+    color: red;
+    background-color: lightgoldenrodyellow;
+    font-size: 20px;
+    text-align: center;
+}
+.p1{
+    color: purple;
+    text-align: center;
+    font-size: 16px;
+    margin-bottom: 25px;
+    margin-top: 25px;
+}
+.p2{
+    text-indent : 20px;
+    font-size: 11px;
+    margin-bottom: 25px;
+    margin-top: 25px;
+}
+.listeo{
+    font-size: 15px;
+    color: blue;
+    font-weight: bold;
+}
+.listu{
+    text-decoration: underline;
+    font-size: 13px;
+    font-style: italic;
+}
+.p4{
+    font-size: 12px;
+    font-family: "serif";
+    font-style: italic;
+    margin-top:10px;
+    margin-bottom:20px;
+}
+.p3{
+    font-style: italic;
+}
+.p5{
+    text-indent : 12px;
+    margin-top:10px;
+    margin-bottom:20px
+}
+.p6{
+    color: cadetblue;
+}
+
+[CLASS^=bloc]:HOVER H2 {color:
+        green;}

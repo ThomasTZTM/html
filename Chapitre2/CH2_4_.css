@@ -1,0 +1,75 @@
+body{
+    background-image: url("fondcrai.jpg");
+    background-repeat: no-repeat;
+}
+
+h1{
+    font-size: 100px;
+    text-align: center;
+    color: rgba(253, 29, 29, 0.6);
+}
+
+h2{
+    font-size: 20px;
+    text-align: center;
+    color: white;
+}
+
+p{
+    color: white;
+}
+
+.box1 {
+    margin: 50px 0;
+    color: #fff;
+    background: linear-gradient(
+            90deg,
+            rgba(131, 58, 180, 1) 0%,
+            rgba(253, 29, 29, 0.6) 60%,
+            rgba(252, 176, 69, 1) 100%
+    ), radial-gradient(circle, rgba(255, 255, 255, 1) 0%, rgba(0, 0, 0, 1) 28%);
+    border: 5px dashed black;
+    padding: 20px;
+    width: auto;
+    background-origin: padding-box, content-box;
+    background-repeat: no-repeat;
+    background-clip: padding-box;
+}
+
+.box2 {
+    margin: 50px 0;
+    color: #fff;
+    background: linear-gradient(
+            90deg,
+            rgba(131, 58, 180, 1) 0%,
+            rgba(253, 29, 29, 0.6) 60%,
+            rgba(252, 176, 69, 1) 100%
+    ), radial-gradient(circle, rgba(255, 255, 255, 1) 0%, rgba(0, 0, 0, 1) 28%);
+    border: 5px dashed black;
+    padding: 20px;
+    width: auto;
+    background-origin: padding-box, content-box;
+    background-repeat: no-repeat;
+    background-clip: border-box;
+}
+
+.box3 {
+    margin: 50px 0;
+    color: #fff;
+    background: linear-gradient(
+            90deg,
+            rgba(131, 58, 180, 1) 0%,
+            rgba(253, 29, 29, 0.6) 60%,
+            rgba(252, 176, 69, 1) 100%
+    ), radial-gradient(circle, rgba(255, 255, 255, 1) 0%, rgba(0, 0, 0, 1) 28%);
+    border: 5px dashed black;
+    padding: 20px;
+    width: auto;
+    background-origin: padding-box, content-box;
+    background-repeat: no-repeat;
+    background-clip: border-box;
+}
+
+
+
+

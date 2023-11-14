@@ -6,6 +6,8 @@ h2{
     color: white ;
 }
 
+.encadrer-un-contenu{ border: 1px solid #ffffff; padding: 5px; }
+
 p{
     color: white;
     opacity: 100%;
@@ -14,11 +16,26 @@ p{
 body {
     background-image: url("pingudeux.jpg");
 }
-.banniere{
+
+.boxe {
+    background-color: dodgerblue;
+    background-image: url("pinguun.png");
+    background-size: 400px;
+    background-repeat: no-repeat;
+    opacity: 0.8;
+}
+
+.box {
+    background-color: #567895;
+    opacity: 0.5;
+}
+
+.corps
+{
+    color: #ffffff;
     background-image: url("pinguun.png");
     background-repeat: no-repeat;
-    background-position: top;
-    background-size: cover;
+    text-align: center;
     opacity: 100%;
 }
 

@@ -1,0 +1,38 @@
+body{
+    background-color: grey;
+    color: white;
+}
+.banniere1{
+    background-image: url("pingouin.png");
+    background-repeat: no-repeat;
+    background-position: left;
+    background-size: contain;
+    background-color: cadetblue;
+    border: 0.7rem dashed orange;
+    background-clip: border-box;
+    background-origin: border-box;
+}
+.banniere2{
+    background-image: url("pingouin.png");
+    background-repeat: no-repeat;
+    background-position: left;
+    background-size: contain;
+    margin-bottom: 25px;
+    margin-top: 25px;
+    background-color: forestgreen;
+    border: 0.7rem dashed orange;
+    background-clip: content-box;
+    background-origin: content-box;
+}
+.banniere3{
+    background-image: url("pingouin.png");
+    background-repeat: no-repeat;
+    background-position: left;
+    background-size: contain;
+    background-color: purple;
+    border: 0.7rem dashed orange;
+    background-origin: content-box;
+    padding: 15px;
+    background-clip: content-box;
+}
+
